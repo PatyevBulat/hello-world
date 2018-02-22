@@ -1,0 +1,45 @@
+<DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Фломики</title>
+    </head>
+    <body bgcolor="f5aaff"> 
+        <table border="1" bordercolor="cc215a" width="800" align="center">
+            <tr>
+                <td bgcolor="e6e6fa">
+                    <!--Папка сайта.-->
+                    <table border="1" bordercolor="cc215a" width="795" height="215" cellpadding="10">
+                        <tr>
+                            <th background="">
+                                <h1>
+                                    <font color="cc215a" face="Monotype Corsiva">FLOMIK.com</font>
+                                    <h3 align="left">
+                                        <font color="cc215a">
+                                        </font>
+                                    </h3>
+                                </h1>
+                            </th>
+                        </tr>
+                    </table>
+                </tr>
+            </tr>
+            </table>
+        </table>
+        <table border="1" bordercolor="cc215a" width="800" height="100" align="left">
+            <tr>
+                <td bgcolor="e6e6fa">
+                    <!--Папка сайта.-->
+                    <table border="1" bordercolor="cc215a" width="795" height="215" cellpadding="10">
+                        <tr>
+                            <th background="">
+                                <h1>
+                                        <font color="f2ffgg" face="Monotype Corsiva">ФИЛЬТРЫ +</font>
+                                        <h3 align="left">
+                                            <font color="cc215a">
+                                            </font> 
+                                            <table border="1" bordercolor="cc215a" width="800" height="100" align="center">
+                                                    <tr>
+    </body>
+
+    </html>
